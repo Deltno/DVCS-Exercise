@@ -52,6 +52,9 @@
                         <li><a runat="server" href="~/">Home</a></li>
                         <li><a runat="server" href="~/About">About</a></li>
                         <li><a runat="server" href="~/Contact">Contact</a></li>
+                        <li><a runat="server" href="~/Pages/Page_1">Page 1</a></li>
+                        <li><a runat="server" href="~/Pages/Page_2">Page 2</a></li>
+                        <li><a runat="server" href="~/Pages/Page_3">Page 3</a></li>
                     </ul>
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
                         <AnonymousTemplate>
